@@ -15,7 +15,7 @@
 </p>
 
 ![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&align="center")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&theme=tokyonight&align=center)
 </div>
 
 
