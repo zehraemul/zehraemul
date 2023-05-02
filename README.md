@@ -15,5 +15,4 @@
 </p>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zehraemul&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=transparent)
+![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula)
