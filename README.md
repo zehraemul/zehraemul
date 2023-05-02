@@ -11,6 +11,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="php" width="45" height="45"/>
 <img src="https://www.svgrepo.com/download/373830/matlab.svg" alt="vscode" width="45" height="45"/>
 <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="vscode" width="45" height="45"/>
-<img src="https://ag.digital/wp-content/uploads/2019/08/Group-5.png" alt="vscode" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="vscode" width="45" height="45"/>
 </p>
 </div>
