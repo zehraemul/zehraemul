@@ -13,4 +13,5 @@
 <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="45" height="45"/>
 </p>
+  ![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehraemula&show_icons=true&theme=radical)
 </div>
