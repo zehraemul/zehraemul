@@ -16,5 +16,4 @@
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zehraemul&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=transparent)
