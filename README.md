@@ -14,5 +14,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="45" height="45"/>
 </p>
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zehraemul&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zehraemul&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
+</div>
