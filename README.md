@@ -1,7 +1,7 @@
 ### Hi there 🫶
 
 -My name is Zehra and I am a computer engineering student at Yıldız Technical University.
-
+<div align="center">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="vscode" width="45" height="45"/>
@@ -12,3 +12,4 @@
 <img src="https://www.svgrepo.com/download/373830/matlab.svg" alt="vscode" width="45" height="45"/>
 <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="vscode" width="45" height="45"/>
 </p>
+</div>
