@@ -15,5 +15,3 @@
 </p>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&theme=tokyonight&align=center)
-
