@@ -14,10 +14,10 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="45" height="45"/>
 </p>
   <div>
-    fdfd
+   ![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&theme=tokyonight)
   </div>
 </div>
 
-![Zehra's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&theme=tokyonight)
+
 
