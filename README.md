@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <div align="right">
 <img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" style="width: 100%" />
 </div>  
