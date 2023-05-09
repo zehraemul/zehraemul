@@ -14,6 +14,23 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="45" height="45"/>
 </p>
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zehraemul&show_icons=true&locale=en&layout=compact" alt="zehraemul" theme=dracula /></p>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/zehraemul" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/zehra-beng%C3%BC-em%C3%BCl-2b9b871b3/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/zehraemul" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+ 
+<br/>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehraemul&" alt="zehraemul" /></p>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
