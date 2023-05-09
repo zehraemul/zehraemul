@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
 <img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University.</div>  
+### <div align="right">My name is Zehra and I am a computer engineering student at Yıldız Technical University.</div>  
   
 
 <br/>  
