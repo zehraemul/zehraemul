@@ -4,7 +4,7 @@
 </div>  
   
 
-<div align="right">My name is Zehra and I am a computer engineering student at Yıldız Technical University</div>  
+<div align="left">My name is Zehra and I am a computer engineering student at Yıldız Technical University</div>  
   
 </div>
 
