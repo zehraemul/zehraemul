@@ -33,5 +33,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=dracula&layout=compact" align="center" /></div>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zehra.emul&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<br/>  
