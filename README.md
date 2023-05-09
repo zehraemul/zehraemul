@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" height="" width="300" />
-</div>  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=zehraemul)
+</div> 
 <h1 align="center">Hi there! 🫶 </h1>
 <h3 align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University</h3>
 <br/>  
@@ -9,7 +8,9 @@
 <br/>  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zehraemul&theme=bear)](https://git.io/streak-stats)
+
+![zehraemul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zehraemul&theme=bear&hide_border=true)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
  <br/>
 <p align="center">
