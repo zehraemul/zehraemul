@@ -9,7 +9,7 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
-![zehraemul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zehraemul&theme=tokyonight&hide_border=true)
+![zehraemul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zehraemul&theme=tokyonight&hide_border=true&height=20px)
 ![zehraemul's trophy](https://github-profile-trophy.vercel.app/?username=zehraemul&theme=dracula)
 <h2 align="center">🚀Some Tools I Have Used and Learned</h2>
  <br/>
