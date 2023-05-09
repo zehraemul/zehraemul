@@ -1,6 +1,13 @@
-### Hi there 🫶
+<div align="center">
+<img src="https://gifdb.com/gif/cat-spamming-letter-a-on-computer-j06xbdyq1jg47wb5.html" align="center" style="width: 100%" />
+</div>  
+  
 
--My name is Zehra and I am a computer engineering student at Yıldız Technical University.
+### <div align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University.</div>  
+  
+
+<br/>  
+
 
 
 <br/>  
