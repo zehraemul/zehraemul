@@ -14,6 +14,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="45" height="45"/>
 </p>
 </div>
+<br/>
 <div align="center">
 <a href="https://github.com/zehraemul" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -28,8 +29,6 @@
  
 <br/>  
 
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
