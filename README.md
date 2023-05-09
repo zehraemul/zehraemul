@@ -16,6 +16,16 @@
 </p>
 </div>
 <br/>
+
+ 
+<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=synthwave&layout=compact" align="center" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 <div align="center">
 <a href="https://github.com/zehraemul" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -27,12 +37,3 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
- 
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=synthwave&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
