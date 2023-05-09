@@ -10,7 +10,7 @@
 <br/>  
 
 ![zehraemul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zehraemul&theme=tokyonight&hide_border=true)
-
+![zehraemul's trophy](https://github-profile-trophy.vercel.app/?username=zehraemul)
 <h2 align="center">🚀Some Tools I Have Used and Learned</h2>
  <br/>
 <p align="center">
