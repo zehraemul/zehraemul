@@ -30,6 +30,6 @@
  
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=radical)</div>  
 
 <br/>  
