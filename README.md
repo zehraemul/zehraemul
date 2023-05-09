@@ -7,7 +7,7 @@
 
 
 <br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=synthwave&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=radical&layout=compact" align="center" /></div>  
 
 <br/>  
 
