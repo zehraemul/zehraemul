@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gifdb.com/gif/cat-spamming-letter-a-on-computer-j06xbdyq1jg47wb5.html" align="center" style="width: 100%" />
+<img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" style="width: 100%" />
 </div>  
   
 
