@@ -2,8 +2,8 @@
 <img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" height="" width="200" />
 </div>  
   
-<h1 align="center">Hi there! <3 </h1>
-### <div align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University.</div>  
+<h1 align="center">Hi there! 🫶 </h1>
+<div align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University.</div>  
 
 
 <br/>  
