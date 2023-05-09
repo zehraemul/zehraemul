@@ -3,7 +3,7 @@
 </div>  
   
 <h1 align="center">Hi there! 🫶 </h1>
-<h2 align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University</h2>
+<h3 align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University</h3>
 
 
 <br/>  
