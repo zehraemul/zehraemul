@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" height="" width="200" />
+<img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" height="" width="300" />
 </div>  
   
 <h1 align="center">Hi there! 🫶 </h1>
