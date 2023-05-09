@@ -1,6 +1,16 @@
 ### Hi there 🫶
 
 -My name is Zehra and I am a computer engineering student at Yıldız Technical University.
+
+
+<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=synthwave&layout=compact" align="center" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 <div align="center">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
  <br/>
@@ -15,15 +25,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="45" height="45"/>
 </p>
 </div>
-
-<br/>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=synthwave&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 <div align="center">
  <h2 align="center">Connect with me!</h2>
 <a href="https://www.linkedin.com/in/zehra-beng%C3%BC-em%C3%BCl-2b9b871b3/" target="_blank">
