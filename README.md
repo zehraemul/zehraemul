@@ -1,12 +1,10 @@
-<div>
-  <div align="right">
-<img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" style="width: 100%" />
+<div align="center">
+<img src="https://gifdb.com/images/thumbnail/cat-distracted-with-computer-mouse-cursor-vio3ac46g3jey005.gif" align="center" height="" width="200" />
 </div>  
   
 
-<div align="left">My name is Zehra and I am a computer engineering student at Yıldız Technical University</div>  
+### <div align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University.</div>  
   
-</div>
 
 <br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=synthwave&layout=compact" align="center" /></div>  
