@@ -11,7 +11,7 @@
 
 ![zehraemul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zehraemul&theme=bear&hide_border=true)
 
-<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center">🚀Some Tools I Have Used and Learned</h2>
  <br/>
 <p align="center">
 <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="js" width="45" height="45"/>
