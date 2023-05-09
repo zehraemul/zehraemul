@@ -15,9 +15,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="45" height="45"/>
 </p>
 </div>
-<br/>
 
- 
 <br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=synthwave&layout=compact" align="center" /></div>  
 
