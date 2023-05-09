@@ -14,8 +14,7 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_progress=true)](https://github.com/zehraemul/github-readme-stats)
-<div align="center">
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
  <br/>
 <p align="center">
