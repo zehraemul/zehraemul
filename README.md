@@ -4,8 +4,7 @@
 <h1 align="center">Hi there! 🫶 </h1>
 <h3 align="center">My name is Zehra and I am a computer engineering student at Yıldız Technical University</h3>
 <br/>  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehraemul&hide_border=true&theme=radical&layout=compact" align="center" /></div>  
-<br/>  
+
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=zehraemul&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
